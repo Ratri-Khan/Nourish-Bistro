@@ -22,7 +22,7 @@ const Header = () => {
                 <ul className="menu menu-horizontal px-1">
                     <li><Link to='/'>Home</Link></li>
                     <li><Link to='/menu'>Menu</Link></li>
-                    <li><Link to='/order/salad'>Order</Link></li>
+                    <li><Link to='/order/salad'>Order Food</Link></li>
                     <li>
                         <button className="bg-red-400">
                             <Link to='/dashboard/myCart'><AiOutlineShoppingCart className="w-8 h-8"/></Link>
